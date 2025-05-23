@@ -93,36 +93,3 @@ Home: Bengaluru Blues
 Away: Bengal Tigers
 Match Result: Bengaluru Blues 1 - 0 Bengal Tigers
 You won the bet! Winnings: $248.00
-nadkalpur@nadkalpur-Lenovo-S510:~/Documents/elementary_football$ ./football_wager_rnd_copy
-Odds: 4.4, Stake: $60.0
-Kerala Blasters (Attack: 0.54, Defense: 0.78)
-Goa Warriors (Attack: 0.71, Defense: 0.77)
-Home: Kerala Blasters
-Away: Goa Warriors
-Match Result: Kerala Blasters 1 - 0 Goa Warriors
-You won the bet! Winnings: $264.00
-nadkalpur@nadkalpur-Lenovo-S510:~/Documents/elementary_football$ ./football_wager_rnd_copy
-Odds: 1.5, Stake: $50.0
-Bengaluru Blues (Attack: 0.70, Defense: 0.57)
-Kerala Blasters (Attack: 0.47, Defense: 0.48)
-Home: Bengaluru Blues
-Away: Kerala Blasters
-Match Result: Bengaluru Blues 5 - 2 Kerala Blasters
-You won the bet! Winnings: $75.00
-nadkalpur@nadkalpur-Lenovo-S510:~/Documents/elementary_football$ ./football_wager_rnd_copy
-Odds: 5.0, Stake: $10.0
-Bengaluru Blues (Attack: 0.54, Defense: 0.76)
-Bengal Tigers (Attack: 0.79, Defense: 0.77)
-Home: Bengaluru Blues
-Away: Bengal Tigers
-Match Result: Bengaluru Blues 1 - 1 Bengal Tigers
-You lost the bet. Stake lost: $10.00
-nadkalpur@nadkalpur-Lenovo-S510:~/Documents/elementary_football$ 
-
-Odds: 0.5, Stake: $40.0
-Bengaluru Blues (Attack: 0.67, Defense: 0.88)
-Kerala Blasters (Attack: 0.59, Defense: 0.67)
-Home: Bengaluru Blues
-Away: Kerala Blasters
-Match Result: Bengaluru Blues 3 - 0 Kerala Blasters
-You won the bet! Winnings: $20.00
