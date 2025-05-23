@@ -71,25 +71,11 @@ Away: Goa Warriors
 Match Result: Bengaluru Blues 3 - 1 Goa Warriors
 You won the bet! Winnings: $480.00
 
-Odds: 3.7, Stake: $30.0
-Bengal Tigers (Attack: 0.66, Defense: 0.42)
-Goa Warriors (Attack: 0.51, Defense: 0.53)
-Home: Bengal Tigers
-Away: Goa Warriors
-Match Result: Bengal Tigers 3 - 2 Goa Warriors
-You won the bet! Winnings: $111.00nadkalpur@nadkalpur-Lenovo-S510:~/Documents/elementary_football$ ./football_wager_rnd_copy
-Odds: 1.6, Stake: $80.0
-Goa Warriors (Attack: 0.87, Defense: 0.89)
-Kerala Blasters (Attack: 0.46, Defense: 0.71)
-Home: Goa Warriors
-Away: Kerala Blasters
-Match Result: Goa Warriors 4 - 0 Kerala Blasters
-You won the bet! Winnings: $128.00
 nadkalpur@nadkalpur-Lenovo-S510:~/Documents/elementary_football$ ./football_wager_rnd_copy
-Odds: 3.1, Stake: $80.0
-Bengaluru Blues (Attack: 0.70, Defense: 0.60)
-Bengal Tigers (Attack: 0.73, Defense: 0.73)
-Home: Bengaluru Blues
-Away: Bengal Tigers
-Match Result: Bengaluru Blues 1 - 0 Bengal Tigers
-You won the bet! Winnings: $248.00
+Odds: 4.4, Stake: $60.0
+Kerala Blasters (Attack: 0.54, Defense: 0.78)
+Goa Warriors (Attack: 0.71, Defense: 0.77)
+Home: Kerala Blasters
+Away: Goa Warriors
+Match Result: Kerala Blasters 1 - 0 Goa Warriors
+You won the bet! Winnings: $264.00
