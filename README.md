@@ -1,4 +1,4 @@
-```
+
 # football-betting-cpp
 This program implements a simple football match simulation and betting system in C++. It begins by including standard headers for input/output, vectors, strings, and
 random number generation, which are essential for handling user interaction, storing teams goals, wager values and simulating match randomness.
@@ -51,8 +51,8 @@ To make the odds more realistic and easier to display, the function rounds the r
  the result to the nearest integer, and then dividing by 10.0. The final value is returned as the generated odds. This approach ensures that the odds are both random
  and formatted in a way that is typical for betting scenarios.
 
-***Here are some outcomes from the football betting program***
-
+**Here are some outcomes from the football betting program***
+```
 
 Odds: 4.0, Stake: $10.0
 Goa Warriors (Attack: 0.47, Defense: 0.61)
@@ -96,12 +96,5 @@ Away: Goa Warriors
 Match Result: Bengaluru Blues 3 - 1 Goa Warriors
 You won the bet! Winnings: $480.00
 
-nadkalpur@nadkalpur-Lenovo-S510:~/Documents/elementary_football$ ./football_wager_rnd_copy
-Odds: 4.4, Stake: $60.0
-Kerala Blasters (Attack: 0.54, Defense: 0.78)
-Goa Warriors (Attack: 0.71, Defense: 0.77)
-Home: Kerala Blasters
-Away: Goa Warriors
-Match Result: Kerala Blasters 1 - 0 Goa Warriors
-You won the bet! Winnings: $264.00
+
 ```
